@@ -1,1 +1,6 @@
-
+- Sotials made by "sprites"
+- Own slider by JS
+- Section "Our Services" - JS modals
+- Section "Banners Place" - live JS blocks
+- Section "Latest News" - JS today date
+- Partners LOGOS made by "sprites"
