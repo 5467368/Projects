@@ -4,3 +4,4 @@
 - Section "Banners Place" - live JS blocks
 - Section "Latest News" - JS today date
 - Partners LOGOS made by "sprites"
+- CSS made by SCSS
